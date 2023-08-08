@@ -18,7 +18,7 @@ https://gachax.com/nikke-gov/characters/
 
 https://www.freeconvert.com/png-to-ico
 
-# <cdnjs>: 
+# Cdnjs <cdnjs>: 
 
 https://cdnjs.com/libraries/font-awesome
 
