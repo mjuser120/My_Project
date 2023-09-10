@@ -49,3 +49,11 @@ https://www.remove.bg/upload
 # Appetize
 
 https://appetize.io/
+
+# FreeConvert
+
+https://www.freeconvert.com/png-to-ico
+
+# EARIST Student Acc
+
+https://earistweb.pinnacle.com.ph/aims/students/
